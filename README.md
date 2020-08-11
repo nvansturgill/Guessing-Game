@@ -41,5 +41,3 @@ Validate the computer will generate a random number
 - Convert user input with `python's inbuilt int() method`
 
   - **_Hint_** use will use `random.randint` to randomize numbers
-
-## Acknowledgements
