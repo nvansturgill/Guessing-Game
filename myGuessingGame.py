@@ -20,6 +20,6 @@ while number_of_guesses < 10:
     if guess > number:
         print("Rats! Your number is too high.")
     if guess == number:
-        print("You guessed the number!")
+        print("You guessed the number
         print("{} gets a gold star." .format(user))
         break
