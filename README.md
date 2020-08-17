@@ -1,6 +1,6 @@
 # The Guessing Game: An Experiment in Python
 
---------------------------------------------------------------------------------
+---
 
 ## User Story
 
@@ -9,7 +9,7 @@ As a user I want to play a guessing game created by python
 so that I can play a guessing game for fun.
 ```
 
-## Overview
+![](pythonHW.gif)
 
 ## Acceptance Criteria
 
@@ -25,7 +25,7 @@ Validate the user has five attempts to guess the correct number
 Validate the computer will generate a random number
 ```
 
---------------------------------------------------------------------------------
+---
 
 ## Homework Instructions
 
